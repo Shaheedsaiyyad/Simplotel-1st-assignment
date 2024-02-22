@@ -1,0 +1,91 @@
+body
+{
+	background-image: linear-gradient(#ffeeb6, #ffb3ef);
+}
+h1.lorem
+{
+	
+	font-family: lucida sans;
+	font-size: 54px;
+	letter-spacing: 3px;
+	margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+	
+}
+.firstimage{
+	height: 600px;
+	width: 50%;
+}
+p
+{
+	margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  line-height: 1.6;
+  font-size: 20px;
+
+}
+button {
+  background-color:#ff7171;
+  border: none;
+  color: white;
+  padding: 15px 80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 80px;
+  margin-bottom: 100px;
+}
+.imagetwo
+{
+	height: 240px;
+	width: 20%;
+	margin-left: 90px;
+
+}
+.imagethree{
+	height: 500px;
+	width: 25%;
+	margin-left: 20px;
+	margin-right: 60px;
+}
+
+.imagefour
+{
+	height: 250px;
+	width: 20%;
+	margin-left: -270px;
+	margin-bottom: 100px;
+	margin-top: 250px;
+}
+table.last{
+	margin-top: 130px;
+}
+.move
+{
+	
+	z-index: 20%;
+	font-size: 18px;
+	align-items: center;
+}
+.move1
+{
+	font-size: 58px;
+	font-family: lucida sans;
+	letter-spacing: 3px;
+	text-align: center;
+}
+.move2
+{
+	font-size: 14px;
+	margin-bottom: -7px;
+}
+.move3
+{
+	margin-top: -100px;
+	margin-left: 45px;
+}
